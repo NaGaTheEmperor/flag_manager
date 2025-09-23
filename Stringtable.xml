@@ -1,0 +1,2279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Flag Mananger Strings">
+
+	<Package name="Flag_credits">
+	<Key ID="STR_DOG_author">
+			<English>NaGa</English>
+		</Key>
+		<Key ID="STR_DOG_CAT_NAME">
+			<English>Flag Mananger</English>
+			<Russian>Менеджер флагов</Russian>
+		</Key>
+		<Key ID="STR_DOG_COLOR">
+			<English>===Colours===</English>
+			<Russian>===Цвета===</Russian>
+		</Key>
+		<Key ID="STR_DOG_COUNTRY_ARMA">
+			<English>===ARMA countries===</English>
+			<Russian>===Страны Армы===</Russian>
+		</Key>
+		<Key ID="STR_DOG_COUNTRY_UGO">
+			<English>===Yugoslavia countries===</English>
+			<Russian>===Страны Югославии===</Russian>
+		</Key>
+		<Key ID="STR_DOG_COUNTRY_EUR">
+			<English>===Europe countries===</English>
+			<Russian>===Страны Европы===</Russian>
+		</Key>
+		<Key ID="STR_DOG_ORG">
+			<English>===Organizations===</English>
+			<Russian>===Организации===</Russian>
+		</Key>
+		<Key ID="STR_DOG_ORGf">
+			<English>===Fictional Organizations===</English>
+			<Russian>===Выдуманые Организации===</Russian>
+		</Key>
+		<Key ID="STR_DOG_InRussia">
+			<English>===Russian===</English>
+			<Russian>===Российские===</Russian>
+		</Key>
+		<Key ID="STR_DOG_HISTORY">
+			<English>===Historical===</English>
+			<Russian>===Исторические===</Russian>
+		</Key>
+		<Key ID="STR_DOG_AMERICA">
+			<English>===North America===</English>
+			<Russian>===Северная Америка===</Russian>
+		</Key>
+		<Key ID="STR_DOG_SAMERICA">
+			<English>===Sourh America===</English>
+			<Russian>===Южная Америка===</Russian>
+		</Key>
+		<Key ID="STR_DOG_East">
+			<English>===East===</English>
+			<Russian>===Восток===</Russian>
+		</Key>
+		<Key ID="STR_DOG_asia">
+			<English>===Asia===</English>
+			<Russian>===Азия===</Russian>
+		</Key>
+		<Key ID="STR_DOG_africa">
+			<English>===Africa===</English>
+			<Russian>===Африка===</Russian>
+		</Key>
+		<Key ID="STR_DOG_scandinavia">
+			<English>===Northland===</English>
+			<Russian>===Скандинавия===</Russian>
+		</Key>
+		<Key ID="STR_DOG_kavkaz">
+			<English>===Caucasus===</English>
+			<Russian>===Кавказ===</Russian>
+		</Key>
+		<Key ID="STR_DOG_other">
+			<English>===Other===</English>
+			<Russian>===Разное===</Russian>
+		</Key>
+		<Key ID="STR_DOG_scifi">
+			<English>===SCI-FI===</English>
+			<Russian>===SCI-FI===</Russian>
+		</Key>
+		<Key ID="STR_DOG_pmc">
+			<English>===PMC===</English>
+			<Russian>===ЧВК===</Russian>
+		</Key>
+		<Key ID="STR_DOG_ocaean">
+			<English>===Oceania===</English>
+			<Russian>===Океания===</Russian>
+		</Key>
+		<Key ID="STR_DOG_austr">
+			<English>===Australia===</English>
+			<Russian>===Австралия===</Russian>
+		</Key>
+		<Key ID="STR_DOG_philip">
+			<English>===Philippines===</English>
+			<Russian>===Филиппины===</Russian>
+		</Key>
+		
+		
+		<Key ID="STR_DOG_australia">
+			<English>Australia</English>
+			<Russian>Австралия</Russian>
+		</Key>
+		<Key ID="STR_DOG_australia_f">
+			<English>Flag (Australia)</English>
+			<Russian>Флаг (Австралия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_australia_b">
+			<English>Banner (Australia)</English>
+			<Russian>Баннер (Австралия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_airustr">
+			<English>Australian Air Force</English>
+			<Russian>ВВС Австралии</Russian>
+		</Key>
+		<Key ID="STR_DOG_airustr_f">
+			<English>Flag (Australian Air Force)</English>
+			<Russian>Флаг (ВВС Австралии)</Russian>
+		</Key>
+		<Key ID="STR_DOG_airustr_b">
+			<English>Banner (Australian Air Force)</English>
+			<Russian>Баннер (ВВС Австралии)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_adfaustr">
+			<English>Australian Defence Force</English>
+			<Russian>Австралийские силы обороны</Russian>
+		</Key>
+		<Key ID="STR_DOG_adfaustr_f">
+			<English>Flag (Australian Defence Force)</English>
+			<Russian>Флаг (Австралийские силы обороны)</Russian>
+		</Key>
+		<Key ID="STR_DOG_adfaustr_b">
+			<English>Banner (Australian Defence Force)</English>
+			<Russian>Баннер (Австралийские силы обороны)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_navalaustr">
+			<English>Australian Navy</English>
+			<Russian>ВМС Австралии</Russian>
+		</Key>
+		<Key ID="STR_DOG_navalaustr_f">
+			<English>Flag (Australian Navy)</English>
+			<Russian>Флаг (ВМС Австралии)</Russian>
+		</Key>
+		<Key ID="STR_DOG_navalaustr_b">
+			<English>Banner (Australian Navy)</English>
+			<Russian>Баннер (ВМС Австралии)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_adm">
+			<English>Allied Democratic Forces</English>
+			<Russian>Союзные демократические силы</Russian>
+		</Key>
+		<Key ID="STR_DOG_adm_f">
+			<English>Flag (Allied Democratic Forces)</English>
+			<Russian>Флаг (Союзные демократические силы)</Russian>
+		</Key>
+		<Key ID="STR_DOG_adm_b">
+			<English>Banner (Allied Democratic Forces)</English>
+			<Russian>Баннер (Союзные демократические силы)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_philippines">
+			<English>Philippines</English>
+			<Russian>Филиппины</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippines_f">
+			<English>Flag (Philippines)</English>
+			<Russian>Флаг (Филиппины)</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippines_b">
+			<English>Banner (Philippines)</English>
+			<Russian>Баннер (Филиппины)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_philippineswarflag">
+			<English>Philippines War flag</English>
+			<Russian>Боевое знамя Филиппин</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippineswarflag_f">
+			<English>Flag (Philippines War flag)</English>
+			<Russian>Флаг (Боевое знамя Филиппин)</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippineswarflag_b">
+			<English>Banner (Philippines War flag)</English>
+			<Russian>Баннер (Боевое знамя Филиппин)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_philippinesaf">
+			<English>Armed Forces of the Philippines</English>
+			<Russian>ВС Филиппин</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippinesaf_f">
+			<English>Flag (Armed Forces of the Philippines)</English>
+			<Russian>Флаг (ВС Филиппин)</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippinesaf_b">
+			<English>Banner (Armed Forces of the Philippines)</English>
+			<Russian>Баннер (ВС Филиппин)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_philippinesairforce">
+			<English>Air Forces of the Philippines</English>
+			<Russian>ВВС Филиппин</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippinesairforce_f">
+			<English>Flag (Air Forces of the Philippines)</English>
+			<Russian>Флаг (ВВС Филиппин)</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippinesairforce_b">
+			<English>Banner (Air Forces of the Philippines)</English>
+			<Russian>Баннер (ВВС Филиппин)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_philippinesarmy">
+			<English>Philippine Army</English>
+			<Russian>Армия Филиппин</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippinesarmy_f">
+			<English>Flag (Philippine Army)</English>
+			<Russian>Флаг (Армия Филиппин)</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippinesarmy_b">
+			<English>Banner (Philippine Army)</English>
+			<Russian>Баннер (Армия Филиппин)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_philippinesnavy">
+			<English>Philippine Navy</English>
+			<Russian>ВМС Филиппин</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippinesnavy_f">
+			<English>Flag (Philippine Navy)</English>
+			<Russian>Флаг (ВМС Филиппин)</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippinesnavy_b">
+			<English>Banner (Philippine Navy)</English>
+			<Russian>Баннер (ВМС Филиппин)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_philippinesmarine">
+			<English>Philippine Marines</English>
+			<Russian>КМП Филиппин</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippinesmarine_f">
+			<English>Flag (Philippine Marines)</English>
+			<Russian>Флаг (КМП Филиппин)</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippinesmarine_b">
+			<English>Banner (Philippine Marines)</English>
+			<Russian>Баннер (КМП Филиппин)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_philippinesnavaljack">
+			<English>Philippine Naval Jack</English>
+			<Russian>Гюйс ВМС Филиппин</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippinesnavaljack_f">
+			<English>Flag (Philippine Naval Jack)</English>
+			<Russian>Флаг (Гюйс ВМС Филиппин)</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippinesnavaljack_b">
+			<English>Banner (Philippine Naval Jack)</English>
+			<Russian>Баннер (Гюйс ВМС Филиппин)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_philippinesmoronat">
+			<English>Moro National Liberation Front</English>
+			<Russian>Фронт национального освобождения Моро</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippinesmoronat_f">
+			<English>Flag (Moro National Liberation Front)</English>
+			<Russian>Флаг (Фронт национального освобождения Моро)</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippinesmoronat_b">
+			<English>Banner (Moro National Liberation Front)</English>
+			<Russian>Баннер (Фронт национального освобождения Моро)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_philippinesmoromuslim">
+			<English>Moro Islamic Liberation Front</English>
+			<Russian>Исламский фронт освобождения Моро</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippinesmoromuslim_f">
+			<English>Flag (Moro Islamic Liberation Front)</English>
+			<Russian>Флаг (Исламский фронт освобождения Моро)</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippinesmoromuslim_b">
+			<English>Banner (Moro Islamic Liberation Front)</English>
+			<Russian>Баннер (Исламский фронт освобождения Моро)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_philippinesdemnat">
+			<English>National Democratic Front</English>
+			<Russian>Национально-демократический фронт</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippinesdemnat_f">
+			<English>Flag (National Democratic Front)</English>
+			<Russian>Флаг (Национально-демократический фронт)</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippinesdemnat_b">
+			<English>Banner (National Democratic Front)</English>
+			<Russian>Баннер (Национально-демократический фронт)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_philippinescommunist">
+			<English>Communist Party of the Philippines v1</English>
+			<Russian>Коммунистическая партия Филиппин v1</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippinescommunist_f">
+			<English>Flag (Communist Party of the Philippines v1)</English>
+			<Russian>Флаг (Коммунистическая партия Филиппин v1)</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippinescommunist_b">
+			<English>Banner (Communist Party of the Philippines v1)</English>
+			<Russian>Баннер (Коммунистическая партия Филиппин v1)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_philippinesworker">
+			<English>Communist Party of the Philippines v2</English>
+			<Russian>Коммунистическая партия Филиппин v2</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippinesworker_f">
+			<English>Flag (Communist Party of the Philippines v2)</English>
+			<Russian>Флаг (Коммунистическая партия Филиппин v2)</Russian>
+		</Key>
+		<Key ID="STR_DOG_philippinesworker_b">
+			<English>Banner (Communist Party of the Philippines v2)</English>
+			<Russian>Баннер (Коммунистическая партия Филиппин v2)</Russian>
+		</Key>
+		
+		
+		
+		
+		
+		<Key ID="STR_DOG_racs">
+			<English>RACS</English>
+			<Russian>ККАС</Russian>
+		</Key>
+		<Key ID="STR_DOG_racs_f">
+			<English>Flag (RACS)</English>
+			<Russian>Флаг (ККАС)</Russian>
+		</Key>
+		<Key ID="STR_DOG_racs_b">
+			<English>Banner (RACS)</English>
+			<Russian>Баннер (ККАС)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_sla">
+			<English>SLA</English>
+			<Russian>ОАС</Russian>
+		</Key>
+		<Key ID="STR_DOG_sla_f">
+			<English>Flag (SLA)</English>
+			<Russian>Флаг (ОАС)</Russian>
+		</Key>
+		<Key ID="STR_DOG_sla_b">
+			<English>Banner (SLA)</English>
+			<Russian>Баннер (ОАС)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_ardistan">
+			<English>Ardistan</English>
+			<Russian>Ардистан</Russian>
+		</Key>
+		<Key ID="STR_DOG_ardistan_f">
+			<English>Flag (Ardistan)</English>
+			<Russian>Флаг (Ардистан)</Russian>
+		</Key>
+		<Key ID="STR_DOG_ardistan_b">
+			<English>Banner (Ardistan)</English>
+			<Russian>Баннер (Ардистан)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_takistann">
+			<English>Takistan</English>
+			<Russian>Такистан</Russian>
+		</Key>
+		<Key ID="STR_DOG_takistann_f">
+			<English>Flag (Takistan)</English>
+			<Russian>Флаг (Такистан)</Russian>
+		</Key>
+		<Key ID="STR_DOG_takistann_b">
+			<English>Banner (Takistan)</English>
+			<Russian>Баннер (Такистан)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_karzeghistan">
+			<English>Karzeghistan</English>
+			<Russian>Карзегистан</Russian>
+		</Key>
+		<Key ID="STR_DOG_karzeghistan_f">
+			<English>Flag (Karzeghistan)</English>
+			<Russian>Флаг (Карзегистан)</Russian>
+		</Key>
+		<Key ID="STR_DOG_karzeghistan_b">
+			<English>Banner (Karzeghistan)</English>
+			<Russian>Баннер (Карзегистан)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_grozovia">
+			<English>Grozovia</English>
+			<Russian>Грозовия</Russian>
+		</Key>
+		<Key ID="STR_DOG_grozovia_f">
+			<English>Flag (Grozovia)</English>
+			<Russian>Флаг (Грозовия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_grozovia_b">
+			<English>Banner (Grozovia)</English>
+			<Russian>Баннер (Грозовия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_chernarus">
+			<English>Chernarus</English>
+			<Russian>Черноруссия</Russian>
+		</Key>
+		<Key ID="STR_DOG_chernarus_f">
+			<English>Flag (Chernarus)</English>
+			<Russian>Флаг (Черноруссия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_chernarus_b">
+			<English>Banner (Chernarus)</English>
+			<Russian>Баннер (Черноруссия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_eternal">
+			<English>The Eternal Banner</English>
+			<Russian>Вечное знамя</Russian>
+		</Key>
+		<Key ID="STR_DOG_eternal_f">
+			<English>Flag (The Eternal Banner)</English>
+			<Russian>Флаг (Вечное знамя)</Russian>
+		</Key>
+		<Key ID="STR_DOG_eternal_b">
+			<English>Banner (The Eternal Banner)</English>
+			<Russian>Баннер (Вечное знамя)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_arstochka">
+			<English>Arstotska</English>
+			<Russian>Арстотцка</Russian>
+		</Key>
+		<Key ID="STR_DOG_arstochka_f">
+			<English>Flag (Arstotska)</English>
+			<Russian>Флаг (Арстотцка)</Russian>
+		</Key>
+		<Key ID="STR_DOG_arstochka_b">
+			<English>Banner (Arstotska)</English>
+			<Russian>Баннер (Арстотцка)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_kiwi">
+			<English>Laser Kiwi</English>
+			<Russian>Киви</Russian>
+		</Key>
+		<Key ID="STR_DOG_kiwi_f">
+			<English>Flag (Laser Kiwi)</English>
+			<Russian>Флаг (Киви)</Russian>
+		</Key>
+		<Key ID="STR_DOG_kiwi_b">
+			<English>Banner (Laser Kiwi)</English>
+			<Russian>Баннер (Киви)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_newzealand">
+			<English>New Zealand</English>
+			<Russian>Новая Зеландия</Russian>
+		</Key>
+		<Key ID="STR_DOG_newzealand_f">
+			<English>Flag (New Zealand)</English>
+			<Russian>Флаг (Новая Зеландия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_newzealand_b">
+			<English>Banner (New Zealand)</English>
+			<Russian>Баннер (Новая Зеландия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_irland">
+			<English>Irish</English>
+			<Russian>Ирландия</Russian>
+		</Key>
+		<Key ID="STR_DOG_irland_f">
+			<English>Flag (Irish)</English>
+			<Russian>Флаг (Ирландия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_irland_b">
+			<English>Banner (Irish)</English>
+			<Russian>Баннер (Ирландия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_welsh">
+			<English>Welsh flag</English>
+			<Russian>Флаг Уэльса</Russian>
+		</Key>
+		<Key ID="STR_DOG_welsh_f">
+			<English>Flag (Welsh flag)</English>
+			<Russian>Флаг (Флаг Уэльса)</Russian>
+		</Key>
+		<Key ID="STR_DOG_welsh_b">
+			<English>Banner (Welsh flag)</English>
+			<Russian>Баннер (Флаг Уэльса)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_shotland">
+			<English>Scotland</English>
+			<Russian>Шотландия</Russian>
+		</Key>
+		<Key ID="STR_DOG_shotland_f">
+			<English>Flag (Scotland)</English>
+			<Russian>Флаг (Шотландия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_shotland_b">
+			<English>Banner (Scotland)</English>
+			<Russian>Баннер (Шотландия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_spain">
+			<English>Spain</English>
+			<Russian>Испания</Russian>
+		</Key>
+		<Key ID="STR_DOG_spain_f">
+			<English>Flag (Spain)</English>
+			<Russian>Флаг (Испания)</Russian>
+		</Key>
+		<Key ID="STR_DOG_spain_b">
+			<English>Banner (Spain)</English>
+			<Russian>Баннер (Испания)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_albania">
+			<English>Albania</English>
+			<Russian>Албания</Russian>
+		</Key>
+		<Key ID="STR_DOG_albania_f">
+			<English>Flag (Albania)</English>
+			<Russian>Флаг (Албания)</Russian>
+		</Key>
+		<Key ID="STR_DOG_albania_b">
+			<English>Banner (Albania)</English>
+			<Russian>Баннер (Албания)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_grece">
+			<English>Greece</English>
+			<Russian>Греция</Russian>
+		</Key>
+		<Key ID="STR_DOG_grece_f">
+			<English>Flag (Greece)</English>
+			<Russian>Флаг (Греция)</Russian>
+		</Key>
+		<Key ID="STR_DOG_grece_b">
+			<English>Banner (Greece)</English>
+			<Russian>Баннер (Греция)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_netherlands">
+			<English>Netherlands</English>
+			<Russian>Нидерланды</Russian>
+		</Key>
+		<Key ID="STR_DOG_netherlands_f">
+			<English>Flag (Netherlands)</English>
+			<Russian>Флаг (Нидерланды)</Russian>
+		</Key>
+		<Key ID="STR_DOG_netherlands_b">
+			<English>Banner (Netherlands)</English>
+			<Russian>Баннер (Нидерланды)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_luxemburg">
+			<English>Luxembourg</English>
+			<Russian>Люксембург</Russian>
+		</Key>
+		<Key ID="STR_DOG_luxemburg_f">
+			<English>Flag (Luxembourg)</English>
+			<Russian>Флаг (Люксембург)</Russian>
+		</Key>
+		<Key ID="STR_DOG_luxemburg_b">
+			<English>Banner (Luxembourg)</English>
+			<Russian>Баннер (Люксембург)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_belgia">
+			<English>Belgium</English>
+			<Russian>Бельгия</Russian>
+		</Key>
+		<Key ID="STR_DOG_belgia_f">
+			<English>Flag (Belgium)</English>
+			<Russian>Флаг (Бельгия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_belgia_b">
+			<English>Banner (Belgium)</English>
+			<Russian>Баннер (Бельгия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_sheizar">
+			<English>Switzerland</English>
+			<Russian>Швейцария</Russian>
+		</Key>
+		<Key ID="STR_DOG_sheizar_f">
+			<English>Flag (Switzerland)</English>
+			<Russian>Флаг (Швейцария)</Russian>
+		</Key>
+		<Key ID="STR_DOG_sheizar_b">
+			<English>Banner (Switzerland)</English>
+			<Russian>Баннер (Швейцария)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_finland">
+			<English>Finland</English>
+			<Russian>Финляндия</Russian>
+		</Key>
+		<Key ID="STR_DOG_finland_f">
+			<English>Flag (Finland)</English>
+			<Russian>Флаг (Финляндия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_finland_b">
+			<English>Banner (Finland)</English>
+			<Russian>Баннер (Финляндия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_norwegian">
+			<English>Norway</English>
+			<Russian>Норвегия</Russian>
+		</Key>
+		<Key ID="STR_DOG_norwegian_f">
+			<English>Flag (Norway)</English>
+			<Russian>Флаг (Норвегия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_norwegian_b">
+			<English>Banner (Norway)</English>
+			<Russian>Баннер (Норвегия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_sweden">
+			<English>Sweden</English>
+			<Russian>Швеция</Russian>
+		</Key>
+		<Key ID="STR_DOG_sweden_f">
+			<English>Flag (Sweden)</English>
+			<Russian>Флаг (Швеция)</Russian>
+		</Key>
+		<Key ID="STR_DOG_sweden_b">
+			<English>Banner (Sweden)</English>
+			<Russian>Баннер (Швеция)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_denmark">
+			<English>Denmark</English>
+			<Russian>Дания</Russian>
+		</Key>
+		<Key ID="STR_DOG_denmark_f">
+			<English>Flag (Denmark)</English>
+			<Russian>Флаг (Дания)</Russian>
+		</Key>
+		<Key ID="STR_DOG_denmark_b">
+			<English>Banner (Denmark)</English>
+			<Russian>Баннер (Дания)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_georgiaussr">
+			<English>Soviet Georgia</English>
+			<Russian>Советская Грузия</Russian>
+		</Key>
+		<Key ID="STR_DOG_georgiaussr_f">
+			<English>Flag (Soviet Georgia)</English>
+			<Russian>Флаг (Советская Грузия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_georgiaussr_b">
+			<English>Banner (Soviet Georgia)</English>
+			<Russian>Баннер (Советская Грузия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_georgia90s">
+			<English>Georgia of the 90s</English>
+			<Russian>Грузия 90-ых</Russian>
+		</Key>
+		<Key ID="STR_DOG_georgia90s_f">
+			<English>Flag (Georgia of the 90s)</English>
+			<Russian>Флаг (Грузия 90-ых)</Russian>
+		</Key>
+		<Key ID="STR_DOG_georgia90s_b">
+			<English>Banner (Georgia of the 90s)</English>
+			<Russian>Баннер (Грузия 90-ых)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_peru">
+			<English>Peru</English>
+			<Russian>Перу</Russian>
+		</Key>
+		<Key ID="STR_DOG_peru_f">
+			<English>Flag (Peru)</English>
+			<Russian>Флаг (Перу)</Russian>
+		</Key>
+		<Key ID="STR_DOG_peru_b">
+			<English>Banner (Peru)</English>
+			<Russian>Баннер (Перу)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_chile">
+			<English>Chile</English>
+			<Russian>Чили</Russian>
+		</Key>
+		<Key ID="STR_DOG_chile_f">
+			<English>Flag (Chile)</English>
+			<Russian>Флаг (Чили)</Russian>
+		</Key>
+		<Key ID="STR_DOG_chile_b">
+			<English>Banner (Chile)</English>
+			<Russian>Баннер (Чили)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_argentina">
+			<English>Argentina</English>
+			<Russian>Аргентина</Russian>
+		</Key>
+		<Key ID="STR_DOG_argentina_f">
+			<English>Flag (Argentina)</English>
+			<Russian>Флаг (Аргентина)</Russian>
+		</Key>
+		<Key ID="STR_DOG_argentina_b">
+			<English>Banner (Argentina)</English>
+			<Russian>Баннер (Аргентина)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_venesuela">
+			<English>Venezuela</English>
+			<Russian>Венесуэла</Russian>
+		</Key>
+		<Key ID="STR_DOG_venesuela_f">
+			<English>Flag (Venezuela)</English>
+			<Russian>Флаг (Венесуэла)</Russian>
+		</Key>
+		<Key ID="STR_DOG_venesuela_b">
+			<English>Banner (Venezuela)</English>
+			<Russian>Баннер (Венесуэла)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_colombia">
+			<English>Colombia</English>
+			<Russian>Колумбия</Russian>
+		</Key>
+		<Key ID="STR_DOG_colombia_f">
+			<English>Flag (Colombia)</English>
+			<Russian>Флаг (Колумбия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_colombia_b">
+			<English>Banner (Colombia)</English>
+			<Russian>Баннер (Колумбия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_brazil">
+			<English>Brazil</English>
+			<Russian>Бразилия</Russian>
+		</Key>
+		<Key ID="STR_DOG_brazil_f">
+			<English>Flag (Brazil)</English>
+			<Russian>Флаг (Бразилия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_brazil_b">
+			<English>Banner (Brazil)</English>
+			<Russian>Баннер (Бразилия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_bokoharam">
+			<English>Boko Haram</English>
+			<Russian>Боко Харам</Russian>
+		</Key>
+		<Key ID="STR_DOG_bokoharam_f">
+			<English>Flag (Boko Haram)</English>
+			<Russian>Флаг (Боко Харам)</Russian>
+		</Key>
+		<Key ID="STR_DOG_bokoharam_b">
+			<English>Banner (Boko Haram)</English>
+			<Russian>Баннер (Боко Харам)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_abusayyaf">
+			<English>Abu Sayyaf</English>
+			<Russian>Абу Сайяф</Russian>
+		</Key>
+		<Key ID="STR_DOG_abusayyaf_f">
+			<English>Flag (Abu Sayyaf)</English>
+			<Russian>Флаг (Абу Сайяф)</Russian>
+		</Key>
+		<Key ID="STR_DOG_abusayyaf_b">
+			<English>Banner (Abu Sayyaf)</English>
+			<Russian>Баннер (Абу Сайяф)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_irgc">
+			<English>IRGC</English>
+			<Russian>КСИР</Russian>
+		</Key>
+		<Key ID="STR_DOG_irgc_f">
+			<English>Flag (IRGC)</English>
+			<Russian>Флаг (КСИР)</Russian>
+		</Key>
+		<Key ID="STR_DOG_irgc_b">
+			<English>Banner (IRGC)</English>
+			<Russian>Баннер (КСИР)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_hezbola">
+			<English>Hezbollah</English>
+			<Russian>Хезболла</Russian>
+		</Key>
+		<Key ID="STR_DOG_hezbola_f">
+			<English>Flag (Hezbollah)</English>
+			<Russian>Флаг (Хезболла)</Russian>
+		</Key>
+		<Key ID="STR_DOG_hezbola_b">
+			<English>Banner (Hezbollah)</English>
+			<Russian>Баннер (Хезболла)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_ansarallah">
+			<English>Ansar Allah</English>
+			<Russian>Ансар Аллах</Russian>
+		</Key>
+		<Key ID="STR_DOG_ansarallah_f">
+			<English>Flag (Ansar Allah)</English>
+			<Russian>Флаг (Ансар Аллах)</Russian>
+		</Key>
+		<Key ID="STR_DOG_ansarallah_b">
+			<English>Banner (Ansar Allah)</English>
+			<Russian>Баннер (Ансар Аллах)</Russian>
+		</Key>
+		<Key ID="STR_DOG_india">
+			<English>India</English>
+			<Russian>Индия</Russian>
+		</Key>
+		<Key ID="STR_DOG_india_f">
+			<English>Flag (India)</English>
+			<Russian>Флаг (Индия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_india_b">
+			<English>Banner (India)</English>
+			<Russian>Баннер (Индия)</Russian>
+		</Key>
+		
+		
+		
+		
+		
+		<Key ID="STR_DOG_rusempire">
+			<English>Russian Empire</English>
+			<Russian>Российская Империя</Russian>
+		</Key>
+		<Key ID="STR_DOG_rusempire_f">
+			<English>Flag (Russian Empire)</English>
+			<Russian>Флаг (Российская Империя)</Russian>
+		</Key>
+		<Key ID="STR_DOG_rusempire_b">
+			<English>Banner (Russian Empire)</English>
+			<Russian>Баннер (Российская Империя)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_naziitaly">
+			<English>Fascist Italy</English>
+			<Russian>Фашистская Италия</Russian>
+		</Key>
+		<Key ID="STR_DOG_naziitaly_f">
+			<English>Flag (Fascist Italy)</English>
+			<Russian>Флаг (Фашистская Италия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_naziitaly_b">
+			<English>Banner (Fascist Italy)</English>
+			<Russian>Баннер (Фашистская Италия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_spainanarcho">
+			<English>Iberian Anarchist Federation</English>
+			<Russian>Федерация анархистов Иберии</Russian>
+		</Key>
+		<Key ID="STR_DOG_spainanarcho_f">
+			<English>Flag (Iberian Anarchist Federation)</English>
+			<Russian>Флаг (Федерация анархистов Иберии)</Russian>
+		</Key>
+		<Key ID="STR_DOG_spainanarcho_b">
+			<English>Banner (Iberian Anarchist Federation)</English>
+			<Russian>Баннер (Федерация анархистов Иберии)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_spainrepublic">
+			<English>Second Spanish Republic</English>
+			<Russian>Вторая Испанская Республика</Russian>
+		</Key>
+		<Key ID="STR_DOG_spainrepublic_f">
+			<English>Flag (Second Spanish Republic)</English>
+			<Russian>Флаг (Вторая Испанская Республика)</Russian>
+		</Key>
+		<Key ID="STR_DOG_spainrepublic_b">
+			<English>Banner (Second Spanish Republic)</English>
+			<Russian>Баннер (Вторая Испанская Республика)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_nazispain">
+			<English>Francoist Spain</English>
+			<Russian>Франкистская Испания</Russian>
+		</Key>
+		<Key ID="STR_DOG_nazispain_f">
+			<English>Flag (Francoist Spain)</English>
+			<Russian>Флаг (Франкистская Испания)</Russian>
+		</Key>
+		<Key ID="STR_DOG_nazispain_b">
+			<English>Banner (Francoist Spain)</English>
+			<Russian>Баннер (Франкистская Испания)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_chaos">
+			<English>Rebels of Chaos</English>
+			<Russian>Повстанцы Хаоса</Russian>
+		</Key>
+		<Key ID="STR_DOG_chaos_f">
+			<English>Flag (Rebels of Chaos)</English>
+			<Russian>Флаг (Повстанцы Хаоса)</Russian>
+		</Key>
+		<Key ID="STR_DOG_chaos_b">
+			<English>Banner (Rebels of Chaos)</English>
+			<Russian>Баннер (Повстанцы Хаоса)</Russian>
+		</Key>		
+		
+		<Key ID="STR_DOG_gok">
+			<English>GOC</English>
+			<Russian>ГОК</Russian>
+		</Key>
+		<Key ID="STR_DOG_gok_f">
+			<English>Flag (GOC)</English>
+			<Russian>Флаг (ГОК)</Russian>
+		</Key>
+		<Key ID="STR_DOG_gok_b">
+			<English>Banner (GOC)</English>
+			<Russian>Баннер (ГОК)</Russian>
+		</Key>
+		
+		
+		
+		
+		
+		<Key ID="STR_DOG_wagner">
+			<English>PMC Wagner</English>
+			<Russian>ЧВК Вагнер</Russian>
+		</Key>
+		<Key ID="STR_DOG_wagner_f">
+			<English>Flag (PMC Wagner)</English>
+			<Russian>Флаг (ЧВК Вагнер)</Russian>
+		</Key>
+		<Key ID="STR_DOG_wagner_b">
+			<English>Banner (PMC Wagner)</English>
+			<Russian>Баннер (ЧВК Вагнер)</Russian>
+		</Key>
+		<Key ID="STR_DOG_blackwater">
+			<English>PMC Blackwater</English>
+			<Russian>ЧВК Blackwater</Russian>
+		</Key>
+		<Key ID="STR_DOG_blackwater_f">
+			<English>Flag (PMC Blackwater)</English>
+			<Russian>Флаг (ЧВК Blackwater)</Russian>
+		</Key>
+		<Key ID="STR_DOG_blackwater_b">
+			<English>Banner (PMC Blackwater)</English>
+			<Russian>Баннер (ЧВК Blackwater)</Russian>
+		</Key>
+		<Key ID="STR_DOG_mozart">
+			<English>PMC Mozart</English>
+			<Russian>ЧВК Моцарт</Russian>
+		</Key>
+		<Key ID="STR_DOG_mozart_f">
+			<English>Flag (PMC Mozart)</English>
+			<Russian>Флаг (ЧВК Моцарт)</Russian>
+		</Key>
+		<Key ID="STR_DOG_mozart_b">
+			<English>Banner (PMC Mozart)</English>
+			<Russian>Баннер (ЧВК Моцарт)</Russian>
+		</Key>
+		<Key ID="STR_DOG_forward">
+			<English>Forward Observations Group</English>
+			<Russian>Forward Observations Group</Russian>
+		</Key>
+		<Key ID="STR_DOG_forward_f">
+			<English>Flag (Forward Observations Group)</English>
+			<Russian>Флаг (Forward Observations Group)</Russian>
+		</Key>
+		<Key ID="STR_DOG_forward_b">
+			<English>Banner (Forward Observations Group)</English>
+			<Russian>Баннер (Forward Observations Group)</Russian>
+		</Key>
+		
+		
+		<Key ID="STR_DOG_morokko">
+			<English>Morocco</English>
+			<Russian>Марокко</Russian>
+		</Key>
+		<Key ID="STR_DOG_morokko_f">
+			<English>Flag (Morocco)</English>
+			<Russian>Флаг (Марокко)</Russian>
+		</Key>
+		<Key ID="STR_DOG_morokko_b">
+			<English>Banner (Morocco)</English>
+			<Russian>Баннер (Марокко)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_livija">
+			<English>Libya</English>
+			<Russian>Ливия</Russian>
+		</Key>
+		<Key ID="STR_DOG_livija_f">
+			<English>Flag (Libya)</English>
+			<Russian>Флаг (Ливия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_livija_b">
+			<English>Banner (Libya)</English>
+			<Russian>Баннер (Ливия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_tunis">
+			<English>Tunisia</English>
+			<Russian>Тунис</Russian>
+		</Key>
+		<Key ID="STR_DOG_tunis_f">
+			<English>Flag (Tunisia)</English>
+			<Russian>Флаг (Тунис)</Russian>
+		</Key>
+		<Key ID="STR_DOG_tunis_b">
+			<English>Banner (Tunisia)</English>
+			<Russian>Баннер (Тунис)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_alzir">
+			<English>Algeria</English>
+			<Russian>Алжир</Russian>
+		</Key>
+		<Key ID="STR_DOG_alzir_f">
+			<English>Flag (Algeria)</English>
+			<Russian>Флаг (Алжир)</Russian>
+		</Key>
+		<Key ID="STR_DOG_alzir_b">
+			<English>Banner (Algeria)</English>
+			<Russian>Баннер (Алжир)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_somali">
+			<English>Somalia</English>
+			<Russian>Сомали</Russian>
+		</Key>
+		<Key ID="STR_DOG_somali_f">
+			<English>Flag (Somalia)</English>
+			<Russian>Флаг (Сомали)</Russian>
+		</Key>
+		<Key ID="STR_DOG_somali_b">
+			<English>Banner (Somalia)</English>
+			<Russian>Баннер (Сомали)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_egipet">
+			<English>Egypt</English>
+			<Russian>Египет</Russian>
+		</Key>
+		<Key ID="STR_DOG_egipet_f">
+			<English>Flag (Egypt)</English>
+			<Russian>Флаг (Египет)</Russian>
+		</Key>
+		<Key ID="STR_DOG_egipet_b">
+			<English>Banner (Egypt)</English>
+			<Russian>Баннер (Египет)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_sudan">
+			<English>Sudan</English>
+			<Russian>Судан</Russian>
+		</Key>
+		<Key ID="STR_DOG_sudan_f">
+			<English>Flag (Sudan)</English>
+			<Russian>Флаг (Судан)</Russian>
+		</Key>
+		<Key ID="STR_DOG_sudan_b">
+			<English>Banner (Sudan)</English>
+			<Russian>Баннер (Судан)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_mali">
+			<English>Mali</English>
+			<Russian>Мали</Russian>
+		</Key>
+		<Key ID="STR_DOG_mali_f">
+			<English>Flag (Mali)</English>
+			<Russian>Флаг (Мали)</Russian>
+		</Key>
+		<Key ID="STR_DOG_mali_b">
+			<English>Banner (Mali)</English>
+			<Russian>Баннер (Мали)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_angola">
+			<English>Angola</English>
+			<Russian>Ангола</Russian>
+		</Key>
+		<Key ID="STR_DOG_angola_f">
+			<English>Flag (Angola)</English>
+			<Russian>Флаг (Ангола)</Russian>
+		</Key>
+		<Key ID="STR_DOG_angola_b">
+			<English>Banner (Angola)</English>
+			<Russian>Баннер (Ангола)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_niger">
+			<English>Niger</English>
+			<Russian>Нигер</Russian>
+		</Key>
+		<Key ID="STR_DOG_niger_f">
+			<English>Flag (Niger)</English>
+			<Russian>Флаг (Нигер)</Russian>
+		</Key>
+		<Key ID="STR_DOG_niger_b">
+			<English>Banner (Niger)</English>
+			<Russian>Баннер (Нигер)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_nigeria">
+			<English>Nigeria</English>
+			<Russian>Нигерия</Russian>
+		</Key>
+		<Key ID="STR_DOG_nigeria_f">
+			<English>Flag (Nigeria)</English>
+			<Russian>Флаг (Нигерия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_nigeria_b">
+			<English>Banner (Nigeria)</English>
+			<Russian>Баннер (Нигерия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_centralafrica">
+			<English>CAR</English>
+			<Russian>ЦАР</Russian>
+		</Key>
+		<Key ID="STR_DOG_centralafrica_f">
+			<English>Flag (CAR)</English>
+			<Russian>Флаг (ЦАР)</Russian>
+		</Key>
+		<Key ID="STR_DOG_centralafrica_b">
+			<English>Banner (CAR)</English>
+			<Russian>Баннер (ЦАР)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_drkongo">
+			<English>DR Congo</English>
+			<Russian>ДР Конго</Russian>
+		</Key>
+		<Key ID="STR_DOG_drkongo_f">
+			<English>Flag (DR Congo)</English>
+			<Russian>Флаг (ДР Конго)</Russian>
+		</Key>
+		<Key ID="STR_DOG_drkongo_b">
+			<English>Banner (DR Congo)</English>
+			<Russian>Баннер (ДР Конго)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_kongo">
+			<English>Congo</English>
+			<Russian>Конго</Russian>
+		</Key>
+		<Key ID="STR_DOG_kongo_f">
+			<English>Flag (Congo)</English>
+			<Russian>Флаг (Конго)</Russian>
+		</Key>
+		<Key ID="STR_DOG_kongo_b">
+			<English>Banner (Congo)</English>
+			<Russian>Баннер (Конго)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_kosovo">
+			<English>Kosovo</English>
+			<Russian>Косово</Russian>
+		</Key>
+		<Key ID="STR_DOG_kosovo_f">
+			<English>Flag (Kosovo)</English>
+			<Russian>Флаг (Косово)</Russian>
+		</Key>
+		<Key ID="STR_DOG_kosovo_b">
+			<English>Banner (Kosovo)</English>
+			<Russian>Баннер (Косово)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_aok">
+			<English>KLA</English>
+			<Russian>АОК</Russian>
+		</Key>
+		<Key ID="STR_DOG_aok_f">
+			<English>Flag (KLA)</English>
+			<Russian>Флаг (АОК)</Russian>
+		</Key>
+		<Key ID="STR_DOG_aok_b">
+			<English>Banner (KLA)</English>
+			<Russian>Баннер (АОК)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_afgan">
+			<English>Afghanistan</English>
+			<Russian>Афганистан</Russian>
+		</Key>
+		<Key ID="STR_DOG_afgan_f">
+			<English>Flag (Afghanistan)</English>
+			<Russian>Флаг (Афганистан)</Russian>
+		</Key>
+		<Key ID="STR_DOG_afgan_b">
+			<English>Banner (Afghanistan)</English>
+			<Russian>Баннер (Афганистан)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_syrianacarmija">
+			<English>SNA</English>
+			<Russian>СНА</Russian>
+		</Key>
+		<Key ID="STR_DOG_syrianacarmija_f">
+			<English>Flag (SNA)</English>
+			<Russian>Флаг (СНА)</Russian>
+		</Key>
+		<Key ID="STR_DOG_syrianacarmija_b">
+			<English>Banner (SNA)</English>
+			<Russian>Баннер (СНА)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_alnusra">
+			<English>Al-Nusra</English>
+			<Russian>Ал-Нусра</Russian>
+		</Key>
+		<Key ID="STR_DOG_alnusra_f">
+			<English>Flag (Al-Nusra)</English>
+			<Russian>Флаг (Ал-Нусра)</Russian>
+		</Key>
+		<Key ID="STR_DOG_alnusra_b">
+			<English>Banner (Al-Nusra)</English>
+			<Russian>Баннер (Ал-Нусра)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_kurdistan">
+			<English>Kurdistan</English>
+			<Russian>Курдистан</Russian>
+		</Key>
+		<Key ID="STR_DOG_kurdistan_f">
+			<English>Flag (Kurdistan)</English>
+			<Russian>Флаг (Курдистан)</Russian>
+		</Key>
+		<Key ID="STR_DOG_kurdistan_b">
+			<English>Banner (Kurdistan)</English>
+			<Russian>Баннер (Курдистан)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_karabax">
+			<English>Karabakh</English>
+			<Russian>Карабах</Russian>
+		</Key>
+		<Key ID="STR_DOG_karabax_f">
+			<English>Flag (Karabakh)</English>
+			<Russian>Флаг (Карабах)</Russian>
+		</Key>
+		<Key ID="STR_DOG_karabax_b">
+			<English>Banner (Karabakh)</English>
+			<Russian>Баннер (Карабах)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_armenia">
+			<English>Armenia</English>
+			<Russian>Армения</Russian>
+		</Key>
+		<Key ID="STR_DOG_armenia_f">
+			<English>Flag (Armenia)</English>
+			<Russian>Флаг (Армения)</Russian>
+		</Key>
+		<Key ID="STR_DOG_armenia_b">
+			<English>Banner (Armenia)</English>
+			<Russian>Баннер (Армения)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_azer">
+			<English>Azerbaijan</English>
+			<Russian>Азербайджана</Russian>
+		</Key>
+		<Key ID="STR_DOG_azer_f">
+			<English>Flag (Azerbaijan)</English>
+			<Russian>Флаг (Азербайджана)</Russian>
+		</Key>
+		<Key ID="STR_DOG_azer_b">
+			<English>Banner (Azerbaijan)</English>
+			<Russian>Баннер (Азербайджана)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_gruzija">
+			<English>Georgia</English>
+			<Russian>Грузия</Russian>
+		</Key>
+		<Key ID="STR_DOG_gruzija_f">
+			<English>Flag (Georgia)</English>
+			<Russian>Флаг (Грузия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_gruzija_b">
+			<English>Banner (Georgia)</English>
+			<Russian>Баннер (Грузия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_kavkazemiratv1">
+			<English>The Caucasian Emirate v1</English>
+			<Russian>Кавказский эмират v1</Russian>
+		</Key>
+		<Key ID="STR_DOG_kavkazemiratv1_f">
+			<English>Flag (The Caucasian Emirate v1)</English>
+			<Russian>Флаг (Кавказский эмират v1)</Russian>
+		</Key>
+		<Key ID="STR_DOG_kavkazemiratv1_b">
+			<English>Banner (The Caucasian Emirate v1)</English>
+			<Russian>Баннер (Кавказский эмират v1)</Russian>
+		</Key>
+		<Key ID="STR_DOG_kavkazemiratv2">
+			<English>The Caucasian Emirate v2</English>
+			<Russian>Кавказский эмират v2</Russian>
+		</Key>
+		<Key ID="STR_DOG_kavkazemiratv2_f">
+			<English>Flag (The Caucasian Emirate v2)</English>
+			<Russian>Флаг (Кавказский эмират v2)</Russian>
+		</Key>
+		<Key ID="STR_DOG_kavkazemiratv2_b">
+			<English>Banner (The Caucasian Emirate v2)</English>
+			<Russian>Баннер (Кавказский эмират v2)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_lospolos">
+			<English>Los Pollos Hermanos</English>
+			<Russian>Los Pollos Hermanos</Russian>
+		</Key>
+		<Key ID="STR_DOG_lospolos_f">
+			<English>Flag (Los Pollos Hermanos)</English>
+			<Russian>Флаг (Los Pollos Hermanos)</Russian>
+		</Key>
+		<Key ID="STR_DOG_lospolos_b">
+			<English>Banner (Los Pollos Hermanos)</English>
+			<Russian>Баннер (Los Pollos Hermanos)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_scp">
+			<English>SCP</English>
+			<Russian>SCP</Russian>
+		</Key>
+		<Key ID="STR_DOG_scp_f">
+			<English>Flag (SCP)</English>
+			<Russian>Флаг (SCP)</Russian>
+		</Key>
+		<Key ID="STR_DOG_scp_b">
+			<English>Banner (SCP)</English>
+			<Russian>Баннер (SCP)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_umbrella">
+			<English>Umbrella</English>
+			<Russian>Umbrella</Russian>
+		</Key>
+		<Key ID="STR_DOG_umbrella_f">
+			<English>Flag (Umbrella)</English>
+			<Russian>Флаг (Umbrella)</Russian>
+		</Key>
+		<Key ID="STR_DOG_umbrella_b">
+			<English>Banner (Umbrella)</English>
+			<Russian>Баннер (Umbrella)</Russian>
+		</Key>
+		
+		
+		
+		
+		
+		<Key ID="STR_DOG_austria">
+			<English>Austria</English>
+			<Russian>Австрия</Russian>
+		</Key>
+		<Key ID="STR_DOG_austria_f">
+			<English>Flag (Austria)</English>
+			<Russian>Флаг (Австрия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_austria_b">
+			<English>Banner (Austria)</English>
+			<Russian>Баннер (Австрия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Bulgaria">
+			<English>Bulgaria</English>
+			<Russian>Болгария</Russian>
+		</Key>
+		<Key ID="STR_DOG_Bulgaria_f">
+			<English>Flag (Bulgaria)</English>
+			<Russian>Флаг (Болгария)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Bulgaria_b">
+			<English>Banner (Bulgaria)</English>
+			<Russian>Баннер (Болгария)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Canada">
+			<English>Canada</English>
+			<Russian>Канада</Russian>
+		</Key>
+		<Key ID="STR_DOG_Canada_f">
+			<English>Flag (Canada)</English>
+			<Russian>Флаг (Канада)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Canada_b">
+			<English>Banner (Canada)</English>
+			<Russian>Баннер (Канада)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_china">
+			<English>China</English>
+			<Russian>Китай</Russian>
+		</Key>
+		<Key ID="STR_DOG_china_f">
+			<English>Flag (China)</English>
+			<Russian>Флаг (Китай)</Russian>
+		</Key>
+		<Key ID="STR_DOG_china_b">
+			<English>Banner (China)</English>
+			<Russian>Баннер (Китай)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Czech">
+			<English>Czech</English>
+			<Russian>Чехия</Russian>
+		</Key>
+		<Key ID="STR_DOG_Czech_f">
+			<English>Flag (Czech)</English>
+			<Russian>Флаг (Чехия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Czech_b">
+			<English>Banner (Czech)</English>
+			<Russian>Баннер (Чехия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Estonia">
+			<English>Estonia</English>
+			<Russian>Эстония</Russian>
+		</Key>
+		<Key ID="STR_DOG_Estonia_f">
+			<English>Flag (Estonia)</English>
+			<Russian>Флаг (Эстония)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Estonia_b">
+			<English>Banner (Estonia)</English>
+			<Russian>Баннер (Эстония)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_France">
+			<English>France</English>
+			<Russian>Франция</Russian>
+		</Key>
+		<Key ID="STR_DOG_France_f">
+			<English>Flag (France)</English>
+			<Russian>Флаг (Франция)</Russian>
+		</Key>
+		<Key ID="STR_DOG_France_b">
+			<English>Banner (France)</English>
+			<Russian>Баннер (Франция)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_German">
+			<English>German</English>
+			<Russian>Германия</Russian>
+		</Key>
+		<Key ID="STR_DOG_German_f">
+			<English>Flag (German)</English>
+			<Russian>Флаг (Германия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_German_b">
+			<English>Banner (German)</English>
+			<Russian>Баннер (Германия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Iran">
+			<English>Iran</English>
+			<Russian>Иран</Russian>
+		</Key>
+		<Key ID="STR_DOG_Iran_f">
+			<English>Flag (Iran)</English>
+			<Russian>Флаг (Иран)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Iran_b">
+			<English>Banner (Iran)</English>
+			<Russian>Баннер (Иран)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Iraq">
+			<English>Iraq</English>
+			<Russian>Ирак</Russian>
+		</Key>
+		<Key ID="STR_DOG_Iraq_f">
+			<English>Flag (Iraq)</English>
+			<Russian>Флаг (Ирак)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Iraq_b">
+			<English>Banner (Iraq)</English>
+			<Russian>Баннер (Ирак)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Israel">
+			<English>Israel</English>
+			<Russian>Израиль</Russian>
+		</Key>
+		<Key ID="STR_DOG_Israel_f">
+			<English>Flag (Israel)</English>
+			<Russian>Флаг (Израиль)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Israel_b">
+			<English>Banner (Israel)</English>
+			<Russian>Баннер (Израиль)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Italy">
+			<English>Italy</English>
+			<Russian>Италия</Russian>
+		</Key>
+		<Key ID="STR_DOG_Italy_f">
+			<English>Flag (Italy)</English>
+			<Russian>Флаг (Италия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Italy_b">
+			<English>Banner (Italy)</English>
+			<Russian>Баннер (Италия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Japan">
+			<English>Japan</English>
+			<Russian>Япония</Russian>
+		</Key>
+		<Key ID="STR_DOG_Japan_f">
+			<English>Flag (Japan)</English>
+			<Russian>Флаг (Япония)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Japan_b">
+			<English>Banner (Japan)</English>
+			<Russian>Баннер (Япония)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Marine">
+			<English>USA Marine</English>
+			<Russian>КМП США</Russian>
+		</Key>
+		<Key ID="STR_DOG_Marine_f">
+			<English>Flag (USA Marine)</English>
+			<Russian>Флаг (КМП США)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Marine_b">
+			<English>Banner (USA Marine)</English>
+			<Russian>Баннер (КМП США)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Jordan">
+			<English>Jordan</English>
+			<Russian>Иордания</Russian>
+		</Key>
+		<Key ID="STR_DOG_Jordan_f">
+			<English>Flag (Jordan)</English>
+			<Russian>Флаг (Иордания)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Jordan_b">
+			<English>Banner (Jordan)</English>
+			<Russian>Баннер (Иордания)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Cuban">
+			<English>Cuba v1</English>
+			<Russian>Куба v1</Russian>
+		</Key>
+		<Key ID="STR_DOG_Cuban_f">
+			<English>Flag (Cuba v1)</English>
+			<Russian>Флаг (Куба v1)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Cuban_b">
+			<English>Banner (Cuba v1)</English>
+			<Russian>Баннер (Куба v1)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Cuba">
+			<English>Cuba v2</English>
+			<Russian>Куба v2</Russian>
+		</Key>
+		<Key ID="STR_DOG_Cuba_f">
+			<English>Flag (Cuba v2)</English>
+			<Russian>Флаг (Куба v2)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Cuba_b">
+			<English>Banner (Cuba v2)</English>
+			<Russian>Баннер (Куба v2)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Latvia">
+			<English>Latvia</English>
+			<Russian>Латвия</Russian>
+		</Key>
+		<Key ID="STR_DOG_Latvia_f">
+			<English>Flag (Latvia)</English>
+			<Russian>Флаг (Латвия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Latvia_b">
+			<English>Banner (Latvia)</English>
+			<Russian>Баннер (Латвия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Livan">
+			<English>Livan</English>
+			<Russian>Ливан</Russian>
+		</Key>
+		<Key ID="STR_DOG_Livan_f">
+			<English>Flag (Livan)</English>
+			<Russian>Флаг (Ливан)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Livan_b">
+			<English>Banner (Livan)</English>
+			<Russian>Баннер (Ливан)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Litva">
+			<English>Lithuania</English>
+			<Russian>Литва</Russian>
+		</Key>
+		<Key ID="STR_DOG_Litva_f">
+			<English>Flag (Lithuania)</English>
+			<Russian>Флаг (Литва)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Litva_b">
+			<English>Banner (Lithuania)</English>
+			<Russian>Баннер (Литва)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Mexico">
+			<English>Mexico</English>
+			<Russian>Мексика</Russian>
+		</Key>
+		<Key ID="STR_DOG_Mexico_f">
+			<English>Flag (Mexico)</English>
+			<Russian>Флаг (Мексика)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Mexico_b">
+			<English>Banner (Mexico)</English>
+			<Russian>Баннер (Мексика)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Moldova">
+			<English>Moldova</English>
+			<Russian>Молдавия</Russian>
+		</Key>
+		<Key ID="STR_DOG_Moldova_f">
+			<English>Flag (Moldova)</English>
+			<Russian>Флаг (Молдавия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Moldova_b">
+			<English>Banner (Moldova)</English>
+			<Russian>Баннер (Молдавия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_KoreaN">
+			<English>North Korea</English>
+			<Russian>Северная Корея</Russian>
+		</Key>
+		<Key ID="STR_DOG_KoreaN_f">
+			<English>Flag (North Korea)</English>
+			<Russian>Флаг (Северная Корея)</Russian>
+		</Key>
+		<Key ID="STR_DOG_KoreaN_b">
+			<English>Banner (North Korea)</English>
+			<Russian>Баннер (Северная Корея)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_KoreaS">
+			<English>South Korea</English>
+			<Russian>Южная Корея</Russian>
+		</Key>
+		<Key ID="STR_DOG_KoreaS_f">
+			<English>Flag (South Korea)</English>
+			<Russian>Флаг (Южная Корея)</Russian>
+		</Key>
+		<Key ID="STR_DOG_KoreaS_b">
+			<English>Banner (South Korea)</English>
+			<Russian>Баннер (Южная Корея)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Pakistan">
+			<English>Pakistan</English>
+			<Russian>Пакистан</Russian>
+		</Key>
+		<Key ID="STR_DOG_Pakistan_f">
+			<English>Flag (Pakistan)</English>
+			<Russian>Флаг (Пакистан)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Pakistan_b">
+			<English>Banner (Pakistan)</English>
+			<Russian>Баннер (Пакистан)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Palestine">
+			<English>Palestine</English>
+			<Russian>Палестина</Russian>
+		</Key>
+		<Key ID="STR_DOG_Palestine_f">
+			<English>Flag (Palestine)</English>
+			<Russian>Флаг (Палестина)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Palestine_b">
+			<English>Banner (Palestine)</English>
+			<Russian>Баннер (Палестина)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Poland">
+			<English>Poland</English>
+			<Russian>Польша</Russian>
+		</Key>
+		<Key ID="STR_DOG_Poland_f">
+			<English>Flag (Poland)</English>
+			<Russian>Флаг (Польша)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Poland_b">
+			<English>Banner (Poland)</English>
+			<Russian>Баннер (Польша)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Reich">
+			<English>3 Reich</English>
+			<Russian>3 Рейх</Russian>
+		</Key>
+		<Key ID="STR_DOG_Reich_f">
+			<English>Flag (3 Reich)</English>
+			<Russian>Флаг (3 Рейх)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Reich_b">
+			<English>Banner (3 Reich)</English>
+			<Russian>Баннер (3 Рейх)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Romania">
+			<English>Romania</English>
+			<Russian>Румыния</Russian>
+		</Key>
+		<Key ID="STR_DOG_Romania_f">
+			<English>Flag (Romania)</English>
+			<Russian>Флаг (Румыния)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Romania_b">
+			<English>Banner (Romania)</English>
+			<Russian>Баннер (Румыния)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Slovakia">
+			<English>Slovakia</English>
+			<Russian>Словакия</Russian>
+		</Key>
+		<Key ID="STR_DOG_Slovakia_f">
+			<English>Flag (Slovakia)</English>
+			<Russian>Флаг (Словакия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Slovakia_b">
+			<English>Banner (Slovakia)</English>
+			<Russian>Баннер (Словакия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Syria">
+			<English>Syria</English>
+			<Russian>Сирия</Russian>
+		</Key>
+		<Key ID="STR_DOG_Syria_f">
+			<English>Flag (Syria)</English>
+			<Russian>Флаг (Сирия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Syria_b">
+			<English>Banner (Syria)</English>
+			<Russian>Баннер (Сирия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Taiwan">
+			<English>Taiwan</English>
+			<Russian>Тайвань</Russian>
+		</Key>
+		<Key ID="STR_DOG_Taiwan_f">
+			<English>Flag (Taiwan)</English>
+			<Russian>Флаг (Тайвань)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Taiwan_b">
+			<English>Banner (Taiwan)</English>
+			<Russian>Баннер (Тайвань)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Turkey">
+			<English>Turkey</English>
+			<Russian>Турция</Russian>
+		</Key>
+		<Key ID="STR_DOG_Turkey_f">
+			<English>Flag (Turkey)</English>
+			<Russian>Флаг (Турция)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Turkey_b">
+			<English>Banner (Turkey)</English>
+			<Russian>Баннер (Турция)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Ussrr">
+			<English>USSR</English>
+			<Russian>СССР</Russian>
+		</Key>
+		<Key ID="STR_DOG_Ussrr_f">
+			<English>Flag (USSR)</English>
+			<Russian>Флаг (СССР)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Ussrr_b">
+			<English>Banner (USSR)</English>
+			<Russian>Баннер (СССР)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Hungary">
+			<English>Hungary</English>
+			<Russian>Венгрия</Russian>
+		</Key>
+		<Key ID="STR_DOG_Hungary_f">
+			<English>Flag (Hungary)</English>
+			<Russian>Флаг (Венгрия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Hungary_b">
+			<English>Banner (Hungary)</English>
+			<Russian>Баннер (Венгрия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_Victory">
+			<English>Victory banner</English>
+			<Russian>Знамя победы</Russian>
+		</Key>
+		<Key ID="STR_DOG_Victory_f">
+			<English>Flag (Victory banner)</English>
+			<Russian>Флаг (Знамя победы)</Russian>
+		</Key>
+		<Key ID="STR_DOG_Victory_b">
+			<English>Banner (Victory banner)</English>
+			<Russian>Баннер (Знамя победы)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_CRI">
+			<English>CRI</English>
+			<Russian>Ичкерия</Russian>
+		</Key>
+		<Key ID="STR_DOG_CRI_f">
+			<English>Flag (CRI)</English>
+			<Russian>Флаг (Ичкерия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_CRI_b">
+			<English>Banner (CRI)</English>
+			<Russian>Баннер (Ичкерия)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_frg">
+			<English>German (Old)</English>
+			<Russian>ФРГ</Russian>
+		</Key>
+		<Key ID="STR_DOG_frg_f">
+			<English>Flag (German (Old))</English>
+			<Russian>Флаг (ФРГ)</Russian>
+		</Key>
+		<Key ID="STR_DOG_frg_b">
+			<English>Banner (German (Old))</English>
+			<Russian>Баннер (ФРГ)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_GDR">
+			<English>GDR</English>
+			<Russian>ГДР</Russian>
+		</Key>
+		<Key ID="STR_DOG_GDR_f">
+			<English>Flag (GDR)</English>
+			<Russian>Флаг (ГДР)</Russian>
+		</Key>
+		<Key ID="STR_DOG_GDR_b">
+			<English>Banner (GDR)</English>
+			<Russian>Баннер (ГДР)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_ATR_NAME">
+			<English>Path</English>
+			<Russian>Путь</Russian>
+		</Key>
+		<Key ID="STR_DOG_ATR2_NAME">
+			<English>Flag</English>
+			<Russian>Флаг</Russian>
+		</Key>
+		<Key ID="STR_DOG_TOOLTIP">
+			<English>Attaching flag to the equipment</English>
+			<Russian>Прикрепление флага к технике</Russian>
+		</Key>
+		<Key ID="STR_DOG_dog1">
+			<English>Dogechnya</English>
+			<Russian>Догечня</Russian>
+		</Key>
+		<Key ID="STR_DOG_dog2">
+			<English>Dogechnya AF</English>
+			<Russian>ВС Догечни</Russian>
+		</Key>
+		<Key ID="STR_DOG_rus">
+			<English>Russia</English>
+			<Russian>Россия</Russian>
+		</Key>
+		<Key ID="STR_DOG_us">
+			<English>USA</English>
+			<Russian>США</Russian>
+		</Key>
+		<Key ID="STR_DOG_chdkz">
+			<English>CHDKZ (RHSAFRF)</English>
+			<Russian>ЧДКЗ (RHSAFRF)</Russian>
+		</Key>
+		<Key ID="STR_DOG_cdf">
+			<English>CDF</English>
+			<Russian>ЧСО</Russian>
+		</Key>
+		<Key ID="STR_DOG_none">
+			<English>None</English>
+			<Russian>Без флага</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_red">
+			<English>Red</English>
+			<Russian>Красный</Russian>
+		</Key>
+		<Key ID="STR_DOG_blue">
+			<English>Blue</English>
+			<Russian>Синий</Russian>
+		</Key>
+		<Key ID="STR_DOG_green">
+			<English>Green</English>
+			<Russian>Зелёный</Russian>
+		</Key>
+		<Key ID="STR_DOG_white">
+			<English>White</English>
+			<Russian>Белый</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_altis">
+			<English>Altis</English>
+			<Russian>Алтис</Russian>
+		</Key>
+		<Key ID="STR_DOG_altis_col">
+			<English>Altis (Colonial)</English>
+			<Russian>Алтис (Колония)</Russian>
+		</Key>
+		<Key ID="STR_DOG_tanoa">
+			<English>Tanoa</English>
+			<Russian>Таноа</Russian>
+		</Key>
+		<Key ID="STR_DOG_uk">
+			<English>United Kingdom</English>
+			<Russian>Великобритания</Russian>
+		</Key>
+		<Key ID="STR_DOG_livonia">
+			<English>Livonia</English>
+			<Russian>Ливония</Russian>
+		</Key>
+		<Key ID="STR_DOG_Netherlands">
+			<English>Netherlands</English>
+			<Russian>Нидерланды</Russian>
+		</Key>
+		<Key ID="STR_DOG_NATO">
+			<English>NATO</English>
+			<Russian>НАТО</Russian>
+		</Key>
+		<Key ID="STR_DOG_UN">
+			<English>UN</English>
+			<Russian>ООН</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_serb">
+			<English>Serbia</English>
+			<Russian>Сербия</Russian>
+		</Key>
+		<Key ID="STR_DOG_uog">
+			<English>Yugoslavia (RHSSAF)</English>
+			<Russian>Югославия (RHSSAF)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_abx">
+			<English>Abkhazia (RHSAFRF)</English>
+			<Russian>Абхазия (RHSAFRF)</Russian>
+		</Key>
+		<Key ID="STR_DOG_ru_rhs">
+			<English>Russia (RHSAFRF)</English>
+			<Russian>Россия (RHSAFRF)</Russian>
+		</Key>
+		<Key ID="STR_DOG_vdv">
+			<English>VDV (RHSAFRF)</English>
+			<Russian>ВДВ (RHSAFRF)</Russian>
+		</Key>
+		<Key ID="STR_DOG_vmf">
+			<English>VMF (RHSAFRF)</English>
+			<Russian>ВМФ (RHSAFRF)</Russian>
+		</Key>
+		<Key ID="STR_DOG_vv">
+			<English>Rosgvardiya</English>
+			<Russian>Росгвардия / ВВ</Russian>
+		</Key>
+		<Key ID="STR_DOG_novros">
+			<English>Novorossiya</English>
+			<Russian>Новороссия</Russian>
+		</Key>
+		<Key ID="STR_DOG_fsb">
+			<English>FSB</English>
+			<Russian>ФСБ</Russian>
+		</Key>
+		<Key ID="STR_DOG_chechen">
+			<English>Chechnya (RHSAFRF)</English>
+			<Russian>Чечня (RHSAFRF)</Russian>
+		</Key>
+		<Key ID="STR_DOG_chechen_ka">
+			<English>Chechnya (Kadyrov)</English>
+			<Russian>Чечня (Кадыров)</Russian>
+		</Key>
+		<Key ID="STR_DOG_redcross">
+			<English>Red Cross</English>
+			<Russian>Красный крест</Russian>
+		</Key>
+		<Key ID="STR_DOG_odkb">
+			<English>ODKB</English>
+			<Russian>ОДКБ</Russian>
+		</Key>
+		<Key ID="STR_DOG_bel">
+			<English>Belarus</English>
+			<Russian>Беларусь</Russian>
+		</Key>
+		<Key ID="STR_DOG_isis">
+			<English>ISIS</English>
+			<Russian>ИГИЛ</Russian>
+		</Key>
+		<Key ID="STR_DOG_ukr">
+			<English>Ukraine</English>
+			<Russian>Украина</Russian>
+		</Key>
+		<Key ID="STR_DOG_dnr">
+			<English>DNR (RHSAFRF)</English>
+			<Russian>ДНР (RHSAFRF)</Russian>
+		</Key>
+		<Key ID="STR_DOG_lnr">
+			<English>LNR (RHSAFRF)</English>
+			<Russian>ЛНР (RHSAFRF)</Russian>
+		</Key>
+		<Key ID="STR_DOG_trn">
+			<English>Transnistria (RHSAFRF)</English>
+			<Russian>Приднестровье (RHSAFRF)</Russian>
+		</Key>
+		<Key ID="STR_DOG_oset">
+			<English>Ossetia (RHSAFRF)</English>
+			<Russian>Осетия (RHSAFRF)</Russian>
+		</Key>
+		<Key ID="STR_DOG_afg">
+			<English>Afghanistan (3CB)</English>
+			<Russian>Афганистан (3CB)</Russian>
+		</Key>
+		<Key ID="STR_DOG_ussr">
+			<English>USSR (3CB)</English>
+			<Russian>СССР (3CB)</Russian>
+		</Key>
+		<Key ID="STR_DOG_napa">
+			<English>NAPA(3CB)</English>
+			<Russian>НАПА(3CB)</Russian>
+		</Key>
+		<Key ID="STR_DOG_takistan">
+			<English>Takistan (3CB)</English>
+			<Russian>Такистан (3CB)</Russian>
+		</Key>
+		<Key ID="STR_DOG_serb_krain">
+			<English>Serbian Krajina</English>
+			<Russian>Сербская Краина</Russian>
+		</Key>
+		<Key ID="STR_DOG_serb_rep">
+			<English>Republika Srpska</English>
+			<Russian>Республика Сербская</Russian>
+		</Key>
+		<Key ID="STR_DOG_croat">
+			<English>Croatia</English>
+			<Russian>Хорватия</Russian>
+		</Key>
+		<Key ID="STR_DOG_bosnia">
+			<English>Bosnia and Herzegovina</English>
+			<Russian>Босния и Герцеговина</Russian>
+		</Key>
+		<Key ID="STR_DOG_slovenia">
+			<English>Slovenia</English>
+			<Russian>Словения</Russian>
+		</Key>
+		<Key ID="STR_DOG_herzBos">
+			<English>Herzeg-Bosnia</English>
+			<Russian>Герцег-Босна</Russian>
+		</Key>
+		<Key ID="STR_DOG_monten">
+			<English>Serbia and Montenegro</English>
+			<Russian>Сербия и Черногория</Russian>
+		</Key>
+		<Key ID="STR_DOG_kz">
+			<English>Kazakhstan</English>
+			<Russian>Казахстан</Russian>
+		</Key>
+		<Key ID="STR_DOG_talib">
+			<English>Taliban</English>
+			<Russian>Талибан</Russian>
+		</Key>
+		<Key ID="STR_DOG_emirat">
+			<English>Islamic Emirate of Afghanistan</English>
+			<Russian>Исламский эмират Афганистан</Russian>
+		</Key>
+		<Key ID="STR_DOG_baltia">
+			<English>Baltia</English>
+			<Russian>Балтиа</Russian>
+		</Key>
+	
+		<Key ID="STR_DOG_FLAG_serb">
+			<English>Flag (Serbia)</English>
+			<Russian>Флаг (Сербия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_FLAG_vv">
+			<English>Flag (Rosgvardiya)</English>
+			<Russian>Флаг (Росгвардия / ВВ)</Russian>
+		</Key>
+		<Key ID="STR_DOG_FLAG_novros">
+			<English>Flag (Novorossiya)</English>
+			<Russian>Флаг (Новороссия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_FLAG_fsb">
+			<English>Flag (FSB)</English>
+			<Russian>Флаг (ФСБ)</Russian>
+		</Key>
+		<Key ID="STR_DOG_FLAG_chechen_ka">
+			<English>Flag (Chechnya (Kadyrov))</English>
+			<Russian>Флаг (Чечня (Кадыров))</Russian>
+		</Key>
+		<Key ID="STR_DOG_FLAG_redcross">
+			<English>Flag (Red Cross)</English>
+			<Russian>Флаг (Красный крест)</Russian>
+		</Key>
+		<Key ID="STR_DOG_FLAG_odkb">
+			<English>Flag (ODKB)</English>
+			<Russian>Флаг (ОДКБ)</Russian>
+		</Key>
+		<Key ID="STR_DOG_FLAG_bel">
+			<English>Flag (Belarus)</English>
+			<Russian>Флаг (Беларусь)</Russian>
+		</Key>
+		<Key ID="STR_DOG_FLAG_isis">
+			<English>Flag (ISIS)</English>
+			<Russian>Флаг (ИГИЛ)</Russian>
+		</Key>
+		<Key ID="STR_DOG_FLAG_ukr">
+			<English>Flag (Ukraine)</English>
+			<Russian>Флаг (Украина)</Russian>
+		</Key>
+		<Key ID="STR_DOG_FLAG_serb_krain">
+			<English>Flag (Serbian Krajina)</English>
+			<Russian>Флаг (Сербская Краина)</Russian>
+		</Key>
+		<Key ID="STR_DOG_FLAG_serb_rep">
+			<English>Flag (Republika Srpska)</English>
+			<Russian>Флаг (Республика Сербская)</Russian>
+		</Key>
+		<Key ID="STR_DOG_FLAG_croat">
+			<English>Flag (Croatia)</English>
+			<Russian>Флаг (Хорватия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_FLAG_bosnia">
+			<English>Flag (Bosnia and Herzegovina)</English>
+			<Russian>Флаг (Босния и Герцеговина)</Russian>
+		</Key>
+		<Key ID="STR_DOG_FLAG_slovenia">
+			<English>Flag (Slovenia)</English>
+			<Russian>Флаг (Словения)</Russian>
+		</Key>
+		<Key ID="STR_DOG_FLAG_herzBos">
+			<English>Flag (Herzeg-Bosnia)</English>
+			<Russian>Флаг (Герцег-Босна)</Russian>
+		</Key>
+		<Key ID="STR_DOG_FLAG_monten">
+			<English>Flag (Serbia and Montenegro)</English>
+			<Russian>Флаг (Сербия и Черногория)</Russian>
+		</Key>
+		<Key ID="STR_DOG_FLAG_kz">
+			<English>Flag (Kazakhstan)</English>
+			<Russian>Флаг (Казахстан)</Russian>
+		</Key>
+		<Key ID="STR_DOG_FLAG_talib">
+			<English>Flag (Taliban)</English>
+			<Russian>Флаг (Талибан)</Russian>
+		</Key>
+		<Key ID="STR_DOG_FLAG_emirat">
+			<English>Flag (Islamic Emirate of Afghanistan)</English>
+			<Russian>Флаг (Исламский эмират Афганистан)</Russian>
+		</Key>
+		<Key ID="STR_DOG_FLAG_baltia">
+			<English>Flag (Baltia)</English>
+			<Russian>Флаг (Балтиа)</Russian>
+		</Key>
+		
+		<Key ID="STR_DOG_BAN_serb">
+			<English>Banner (Serbia)</English>
+			<Russian>Баннер (Сербия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_BAN_vv">
+			<English>Banner (Rosgvardiya)</English>
+			<Russian>Баннер (Росгвардия / ВВ)</Russian>
+		</Key>
+		<Key ID="STR_DOG_BAN_novros">
+			<English>Banner (Novorossiya)</English>
+			<Russian>Баннер (Новороссия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_BAN_fsb">
+			<English>Banner (FSB)</English>
+			<Russian>Баннер (ФСБ)</Russian>
+		</Key>
+		<Key ID="STR_DOG_BAN_chechen_ka">
+			<English>Banner (Chechnya (Kadyrov))</English>
+			<Russian>Баннер (Чечня (Кадыров))</Russian>
+		</Key>
+		<Key ID="STR_DOG_BAN_redcross">
+			<English>Banner (Red Cross)</English>
+			<Russian>Баннер (Красный крест)</Russian>
+		</Key>
+		<Key ID="STR_DOG_BAN_odkb">
+			<English>Banner (ODKB)</English>
+			<Russian>Баннер (ОДКБ)</Russian>
+		</Key>
+		<Key ID="STR_DOG_BAN_bel">
+			<English>Banner(Belarus)</English>
+			<Russian>Баннер (Беларусь)</Russian>
+		</Key>
+		<Key ID="STR_DOG_BAN_isis">
+			<English>Banner (ISIS)</English>
+			<Russian>Баннер (ИГИЛ)</Russian>
+		</Key>
+		<Key ID="STR_DOG_BAN_ukr">
+			<English>Banner (Ukraine)</English>
+			<Russian>Баннер (Украина)</Russian>
+		</Key>
+		<Key ID="STR_DOG_BAN_serb_krain">
+			<English>Banner (Serbian Krajina)</English>
+			<Russian>Баннер (Сербская Краина)</Russian>
+		</Key>
+		<Key ID="STR_DOG_BAN_serb_rep">
+			<English>Banner (Republika Srpska)</English>
+			<Russian>Баннер (Республика Сербская)</Russian>
+		</Key>
+		<Key ID="STR_DOG_BAN_croat">
+			<English>Banner (Croatia)</English>
+			<Russian>Баннер (Хорватия)</Russian>
+		</Key>
+		<Key ID="STR_DOG_BAN_bosnia">
+			<English>Banner (Bosnia and Herzegovina)</English>
+			<Russian>Баннер (Босния и Герцеговина)</Russian>
+		</Key>
+		<Key ID="STR_DOG_BAN_slovenia">
+			<English>Banner (Slovenia)</English>
+			<Russian>Баннер (Словения)</Russian>
+		</Key>
+		<Key ID="STR_DOG_BAN_herzBos">
+			<English>Banner (Herzeg-Bosnia)</English>
+			<Russian>Баннер (Герцег-Босна)</Russian>
+		</Key>
+		<Key ID="STR_DOG_BAN_monten">
+			<English>Banner (Serbia and Montenegro)</English>
+			<Russian>Баннер (Сербия и Черногория)</Russian>
+		</Key>
+		<Key ID="STR_DOG_BAN_kz">
+			<English>Banner (Kazakhstan)</English>
+			<Russian>Баннер (Казахстан)</Russian>
+		</Key>
+		<Key ID="STR_DOG_BAN_talib">
+			<English>Banner (Taliban)</English>
+			<Russian>Баннер (Талибан)</Russian>
+		</Key>
+		<Key ID="STR_DOG_BAN_emirat">
+			<English>Banner (Islamic Emirate of Afghanistan)</English>
+			<Russian>Баннер (Исламский эмират Афганистан)</Russian>
+		</Key>
+		<Key ID="STR_DOG_BAN_baltia">
+			<English>Banner (Baltia)</English>
+			<Russian>Баннер (Балтиа)</Russian>
+		</Key>
+
+	</Package>
