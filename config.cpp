@@ -1,6 +1,6 @@
 class CfgPatches {
 	class flag_manager {
-		units[] = {"flag_ban_manager_austria","flag_ban_manager_baltia","flag_ban_manager_bel","flag_ban_manager_bosnia","flag_ban_manager_Bulgaria","flag_ban_manager_Canada","flag_ban_manager_chechen_ka","flag_ban_manager_china","flag_ban_manager_CRI","flag_ban_manager_croat","flag_ban_manager_Cuba","flag_ban_manager_Cuban","flag_ban_manager_Czech","flag_ban_manager_emirat","flag_ban_manager_Estonia","flag_ban_manager_France","flag_ban_manager_frg","flag_ban_manager_fsb","flag_ban_manager_GDR","flag_ban_manager_German","flag_ban_manager_herzBos","flag_ban_manager_herzBos","flag_ban_manager_Iran","flag_ban_manager_Iraq","flag_ban_manager_isis","flag_ban_manager_Israel","flag_ban_manager_Italy","flag_ban_manager_Japan","flag_ban_manager_Jordan","flag_ban_manager_KoreaN","flag_ban_manager_KoreaS","flag_ban_manager_kz","flag_ban_manager_Latvia","flag_ban_manager_Litva","flag_ban_manager_Livan","flag_ban_manager_Marine","flag_ban_manager_Mexico","flag_ban_manager_Moldova","flag_ban_manager_monten","flag_ban_manager_novros","flag_ban_manager_odkb","flag_ban_manager_Pakistan","flag_ban_manager_Palestine","flag_ban_manager_Poland","flag_ban_manager_redcross","flag_ban_manager_Reich","flag_ban_manager_Romania","flag_ban_manager_serb_kraina","flag_ban_manager_serb_resp","flag_ban_manager_serbia","flag_ban_manager_Slovakia","flag_ban_manager_slovenia","flag_ban_manager_Syria","flag_ban_manager_Taiwan","flag_ban_manager_talib","flag_ban_manager_Turkey","flag_ban_manager_ukr","flag_ban_manager_Ussrr","flag_ban_manager_Victory","flag_ban_manager_vv","flag_Manager_austria","flag_manager_baltia","flag_manager_bel","flag_manager_bosnia","flag_Manager_Bulgaria","flag_Manager_Canada","flag_manager_chechen_ka","flag_Manager_china","flag_Manager_CRI","flag_manager_croat","flag_Manager_Cuba","flag_Manager_Cuban","flag_Manager_Czech","flag_manager_emirat","flag_Manager_Estonia","flag_Manager_France","flag_Manager_frg","flag_manager_fsb","flag_Manager_GDR","flag_Manager_German","flag_manager_herzBos","flag_Manager_Hungary","flag_Manager_Iran","flag_Manager_Iraq","flag_manager_isis","flag_Manager_Israel","flag_Manager_Italy","flag_Manager_Japan","flag_Manager_Jordan","flag_Manager_KoreaN","flag_Manager_KoreaS","flag_manager_kz","flag_Manager_Latvia","flag_Manager_Litva","flag_Manager_Livan","flag_Manager_Marine","flag_Manager_Mexico","flag_Manager_Moldova","flag_manager_monten","flag_manager_novros","flag_manager_odkb","flag_Manager_Pakistan","flag_Manager_Palestine","flag_Manager_Poland","flag_manager_redcross","flag_Manager_Reich","flag_Manager_Romania","flag_manager_serb_kraina","flag_manager_serb_resp","flag_manager_serbia","flag_Manager_Slovakia","flag_manager_slovenia","flag_Manager_Syria","flag_Manager_Taiwan","flag_manager_talib","flag_Manager_Turkey","flag_manager_ukr","flag_Manager_Ussrr","flag_Manager_Victory","flag_manager_vv"};
+		units[] = {"flag_Manager_abusayyaf", "flag_ban_manager_abusayyaf", "flag_Manager_adfaustr", "flag_ban_manager_adfaustr", "flag_Manager_adm", "flag_ban_manager_adm", "flag_manager_emirat", "flag_ban_manager_emirat", "flag_Manager_afgan", "flag_ban_manager_afgan", "flag_Manager_airustr", "flag_ban_manager_airustr", "flag_Manager_albania", "flag_ban_manager_albania", "flag_Manager_alnusra", "flag_ban_manager_alnusra", "flag_Manager_alzir", "flag_ban_manager_alzir", "flag_Manager_angola", "flag_ban_manager_angola", "flag_Manager_ansarallah", "flag_ban_manager_ansarallah", "flag_Manager_aok", "flag_ban_manager_aok", "flag_Manager_ardistan", "flag_ban_manager_ardistan", "flag_Manager_argentina", "flag_ban_manager_argentina", "flag_Manager_armenia", "flag_ban_manager_armenia", "flag_Manager_arstochka", "flag_ban_manager_arstochka", "flag_Manager_australia", "flag_ban_manager_australia", "flag_Manager_austria", "flag_ban_manager_austria", "flag_Manager_azer", "flag_ban_manager_azer", "flag_manager_baltia", "flag_ban_manager_baltia", "flag_Manager_belgia", "flag_ban_manager_belgia", "flag_Manager_blackwater", "flag_ban_manager_blackwater", "flag_Manager_bokoharam", "flag_ban_manager_bokoharam", "flag_Manager_Bulgaria", "flag_ban_manager_Bulgaria", "flag_manager_bosnia", "flag_ban_manager_bosnia", "flag_manager_herzBos", "flag_ban_manager_herzBos", "flag_Manager_brazil", "flag_ban_manager_brazil", "flag_manager_bel", "flag_ban_manager_bel", "flag_Manager_Canada", "flag_ban_manager_Canada", "flag_Manager_centralafrica", "flag_ban_manager_centralafrica", "flag_Manager_chaos", "flag_ban_manager_chaos", "flag_Manager_chernarus", "flag_ban_manager_chernarus", "flag_manager_monten", "flag_ban_manager_monten", "flag_manager_chechen_ka", "flag_ban_manager_chechen_ka", "flag_Manager_chile", "flag_ban_manager_chile", "flag_Manager_china", "flag_ban_manager_china", "flag_Manager_colombia", "flag_ban_manager_colombia", "flag_Manager_CRI", "flag_ban_manager_CRI", "flag_manager_croat", "flag_ban_manager_croat", "flag_Manager_Czech", "flag_ban_manager_Czech", "flag_Manager_denmark", "flag_ban_manager_denmark", "flag_Manager_drkongo", "flag_ban_manager_drkongo", "flag_Manager_egipet", "flag_ban_manager_egipet", "flag_Manager_Estonia", "flag_ban_manager_Estonia", "flag_Manager_eternal", "flag_ban_manager_eternal", "flag_Manager_finland", "flag_ban_manager_finland", "flag_Manager_forward", "flag_ban_manager_forward", "flag_Manager_France", "flag_ban_manager_France", "flag_Manager_frg", "flag_ban_manager_frg", "flag_manager_fsb", "flag_ban_manager_fsb", "flag_Manager_GDR", "flag_ban_manager_GDR", "flag_Manager_georgia90s", "flag_ban_manager_georgia90s", "flag_Manager_georgiaussr", "flag_ban_manager_georgiaussr", "flag_Manager_German", "flag_ban_manager_German", "flag_Manager_gok", "flag_ban_manager_gok", "flag_Manager_grece", "flag_ban_manager_grece", "flag_Manager_grozovia", "flag_ban_manager_grozovia", "flag_Manager_gruzija", "flag_ban_manager_gruzija", "flag_Manager_hezbola", "flag_ban_manager_hezbola", "flag_Manager_india", "flag_ban_manager_india", "flag_Manager_Iran", "flag_ban_manager_Iran", "flag_Manager_Iraq", "flag_ban_manager_Iraq", "flag_Manager_irgc", "flag_ban_manager_irgc", "flag_Manager_irland", "flag_ban_manager_irland", "flag_manager_isis", "flag_ban_manager_isis", "flag_Manager_Israel", "flag_ban_manager_Israel", "flag_Manager_Italy", "flag_ban_manager_Italy", "flag_Manager_Japan", "flag_ban_manager_Japan", "flag_Manager_Jordan", "flag_ban_manager_Jordan", "flag_Manager_karabax", "flag_ban_manager_karabax", "flag_Manager_karzeghistan", "flag_ban_manager_karzeghistan", "flag_Manager_kavkazemiratv1", "flag_ban_manager_kavkazemiratv1", "flag_Manager_kavkazemiratv2", "flag_ban_manager_kavkazemiratv2", "flag_Manager_kiwi", "flag_ban_manager_kiwi", "flag_Manager_kongo", "flag_ban_manager_kongo", "flag_Manager_kosovo", "flag_ban_manager_kosovo", "flag_Manager_Cuba", "flag_ban_manager_Cuba", "flag_Manager_Cuban", "flag_ban_manager_Cuban", "flag_Manager_kurdistan", "flag_ban_manager_kurdistan", "flag_manager_kz", "flag_ban_manager_kz", "flag_Manager_Latvia", "flag_ban_manager_Latvia", "flag_Manager_Litva", "flag_ban_manager_Litva", "flag_Manager_Livan", "flag_ban_manager_Livan", "flag_Manager_livija", "flag_ban_manager_livija", "flag_Manager_lospolos", "flag_ban_manager_lospolos", "flag_Manager_luxemburg", "flag_ban_manager_luxemburg", "flag_Manager_mali", "flag_ban_manager_mali", "flag_Manager_Marine", "flag_ban_manager_Marine", "flag_Manager_Mexico", "flag_ban_manager_Mexico", "flag_Manager_Moldova", "flag_ban_manager_Moldova", "flag_Manager_morokko", "flag_ban_manager_morokko", "flag_Manager_mozart", "flag_ban_manager_mozart", "flag_Manager_navalaustr", "flag_ban_manager_navalaustr", "flag_Manager_naziitaly", "flag_ban_manager_naziitaly", "flag_Manager_nazispain", "flag_ban_manager_nazispain", "flag_Manager_netherlands", "flag_ban_manager_netherlands", "flag_Manager_newzealand", "flag_ban_manager_newzealand", "flag_Manager_nigeria", "flag_ban_manager_nigeria", "flag_Manager_niger", "flag_ban_manager_niger", "flag_Manager_KoreaN", "flag_ban_manager_KoreaN", "flag_Manager_norwegian", "flag_ban_manager_norwegian", "flag_manager_novros", "flag_ban_manager_novros", "flag_manager_odkb", "flag_ban_manager_odkb", "flag_Manager_Pakistan", "flag_ban_manager_Pakistan", "flag_Manager_Palestine", "flag_ban_manager_Palestine", "flag_Manager_peru", "flag_ban_manager_peru", "flag_Manager_philippinesaf", "flag_ban_manager_philippinesaf", "flag_Manager_philippinesairforce", "flag_ban_manager_philippinesairforce", "flag_Manager_philippinesarmy", "flag_ban_manager_philippinesarmy", "flag_Manager_philippinescommunist", "flag_ban_manager_philippinescommunist", "flag_Manager_philippinesdemnat", "flag_ban_manager_philippinesdemnat", "flag_Manager_philippinesmarine", "flag_ban_manager_philippinesmarine", "flag_Manager_philippinesmoromuslim", "flag_ban_manager_philippinesmoromuslim", "flag_Manager_philippinesmoronat", "flag_ban_manager_philippinesmoronat", "flag_Manager_philippinesnavaljack", "flag_ban_manager_philippinesnavaljack", "flag_Manager_philippinesnavy", "flag_ban_manager_philippinesnavy", "flag_Manager_philippinespeople", "flag_ban_manager_philippinespeople", "flag_Manager_philippineswarflag", "flag_ban_manager_philippineswarflag", "flag_Manager_philippinesworker", "flag_ban_manager_philippinesworker", "flag_Manager_philippines", "flag_ban_manager_philippines", "flag_Manager_Poland", "flag_ban_manager_Poland", "flag_Manager_racs", "flag_ban_manager_racs", "flag_manager_redcross", "flag_ban_manager_redcross", "flag_Manager_Reich", "flag_ban_manager_Reich", "flag_manager_serb_resp", "flag_ban_manager_serb_resp", "flag_Manager_Romania", "flag_ban_manager_Romania", "flag_Manager_rusempire", "flag_ban_manager_rusempire", "flag_Manager_scp", "flag_ban_manager_scp", "flag_manager_serbia", "flag_ban_manager_serbia", "flag_manager_serb_kraina", "flag_ban_manager_serb_kraina", "flag_Manager_sheizar", "flag_ban_manager_sheizar", "flag_Manager_shotland", "flag_ban_manager_shotland", "flag_Manager_KoreaS", "flag_ban_manager_KoreaS", "flag_Manager_sla", "flag_ban_manager_sla", "flag_Manager_Slovakia", "flag_ban_manager_Slovakia", "flag_manager_slovenia", "flag_ban_manager_slovenia", "flag_Manager_somali", "flag_ban_manager_somali", "flag_Manager_spainanarcho", "flag_ban_manager_spainanarcho", "flag_Manager_spainrepublic", "flag_ban_manager_spainrepublic", "flag_Manager_spain", "flag_ban_manager_spain", "flag_Manager_sudan", "flag_ban_manager_sudan", "flag_Manager_sweden", "flag_ban_manager_sweden", "flag_Manager_syrianacarmija", "flag_ban_manager_syrianacarmija", "flag_Manager_Syria", "flag_ban_manager_Syria", "flag_Manager_Taiwan", "flag_ban_manager_Taiwan", "flag_Manager_takistann", "flag_ban_manager_takistann", "flag_manager_talib", "flag_ban_manager_talib", "flag_Manager_tunis", "flag_ban_manager_tunis", "flag_Manager_Turkey", "flag_ban_manager_Turkey", "flag_manager_ukr", "flag_ban_manager_ukr", "flag_Manager_umbrella", "flag_ban_manager_umbrella", "flag_Manager_Ussrr", "flag_ban_manager_Ussrr", "flag_Manager_venesuela", "flag_ban_manager_venesuela", "flag_Manager_Hungary", "flag_ban_manager_Hungary", "flag_Manager_Victory", "flag_ban_manager_Victory", "flag_manager_vv", "flag_ban_manager_vv", "flag_Manager_wagner", "flag_ban_manager_wagner", "flag_Manager_welsh", "flag_ban_manager_welsh", "flag_Manager_chdkz", "flag_ban_manager_chdkz", "flag_Manager_dogflagaf", "flag_ban_manager_dogflagaf", "flag_Manager_dogflag", "flag_ban_manager_dogflag", "flag_Manager_russia", "flag_ban_manager_russia", "flag_Manager_vdv", "flag_ban_manager_vdv", "flag_Manager_vmf", "flag_ban_manager_vmf"};
 		weapons[] = {""};
 		requiredVersion = 0.1;
 		requiredAddons[] = {};
@@ -3100,7 +3100,155 @@ class CfgVehicles {
 			init = "(_this select 0) setFlagTexture 'flag_manager\data\flag_Manager_taliban_CO.paa'";
 		};
 		scopeCurator = 2;
+		// После пишет скрипт
 	};
+
+    class flag_Manager_philippinespeople : FlagCarrier {
+        author = "NaGa";
+        scope = 2;
+        displayName = "$STR_DOG_FLAG_philippinespeople";
+        class EventHandlers {
+            init = "(_this select 0) setFlagTexture 'flag_manager\data\flag_Manager_philippinespeople_CO.paa'";
+        };
+        scopeCurator = 2;
+    };
+
+    class flag_ban_manager_philippinespeople : Banner_01_F {
+        author = "NaGa";
+        scope = 2;
+        displayName = "$STR_DOG_BAN_philippinespeople";
+        hiddenSelectionsTextures[] = {"flag_manager\data\flag_Manager_philippinespeople_CO.paa"};
+        class EventHandlers {
+            init = "(_this select 0) setFlagTexture 'flag_manager\data\flag_Manager_philippinespeople_CO.paa'";
+        };
+        scopeCurator = 2;
+    };
+
+    class flag_Manager_chdkz : FlagCarrier {
+        author = "NaGa";
+        scope = 2;
+        displayName = "$STR_DOG_FLAG_chdkz";
+        class EventHandlers {
+            init = "(_this select 0) setFlagTexture 'flag_manager\data\flag_Manager_chdkz_CO.paa'";
+        };
+        scopeCurator = 2;
+    };
+
+    class flag_ban_manager_chdkz : Banner_01_F {
+        author = "NaGa";
+        scope = 2;
+        displayName = "$STR_DOG_BAN_chdkz";
+        hiddenSelectionsTextures[] = {"flag_manager\data\flag_Manager_chdkz_CO.paa"};
+        class EventHandlers {
+            init = "(_this select 0) setFlagTexture 'flag_manager\data\flag_Manager_chdkz_CO.paa'";
+        };
+        scopeCurator = 2;
+    };
+
+    class flag_Manager_dogflagaf : FlagCarrier {
+        author = "NaGa";
+        scope = 2;
+        displayName = "$STR_DOG_FLAG_dogflagaf";
+        class EventHandlers {
+            init = "(_this select 0) setFlagTexture 'flag_manager\data\flag_Manager_dogflagaf_CO.paa'";
+        };
+        scopeCurator = 2;
+    };
+
+    class flag_ban_manager_dogflagaf : Banner_01_F {
+        author = "NaGa";
+        scope = 2;
+        displayName = "$STR_DOG_BAN_dogflagaf";
+        hiddenSelectionsTextures[] = {"flag_manager\data\flag_Manager_dogflagaf_CO.paa"};
+        class EventHandlers {
+            init = "(_this select 0) setFlagTexture 'flag_manager\data\flag_Manager_dogflagaf_CO.paa'";
+        };
+        scopeCurator = 2;
+    };
+
+    class flag_Manager_dogflag : FlagCarrier {
+        author = "NaGa";
+        scope = 2;
+        displayName = "$STR_DOG_FLAG_dogflag";
+        class EventHandlers {
+            init = "(_this select 0) setFlagTexture 'flag_manager\data\flag_Manager_dogflag_CO.paa'";
+        };
+        scopeCurator = 2;
+    };
+
+    class flag_ban_manager_dogflag : Banner_01_F {
+        author = "NaGa";
+        scope = 2;
+        displayName = "$STR_DOG_BAN_dogflag";
+        hiddenSelectionsTextures[] = {"flag_manager\data\flag_Manager_dogflag_CO.paa"};
+        class EventHandlers {
+            init = "(_this select 0) setFlagTexture 'flag_manager\data\flag_Manager_dogflag_CO.paa'";
+        };
+        scopeCurator = 2;
+    };
+
+    class flag_Manager_russia : FlagCarrier {
+        author = "NaGa";
+        scope = 2;
+        displayName = "$STR_DOG_FLAG_russia";
+        class EventHandlers {
+            init = "(_this select 0) setFlagTexture 'flag_manager\data\flag_Manager_russia_CO.paa'";
+        };
+        scopeCurator = 2;
+    };
+
+    class flag_ban_manager_russia : Banner_01_F {
+        author = "NaGa";
+        scope = 2;
+        displayName = "$STR_DOG_BAN_russia";
+        hiddenSelectionsTextures[] = {"flag_manager\data\flag_Manager_russia_CO.paa"};
+        class EventHandlers {
+            init = "(_this select 0) setFlagTexture 'flag_manager\data\flag_Manager_russia_CO.paa'";
+        };
+        scopeCurator = 2;
+    };
+
+    class flag_Manager_vdv : FlagCarrier {
+        author = "NaGa";
+        scope = 2;
+        displayName = "$STR_DOG_FLAG_vdv";
+        class EventHandlers {
+            init = "(_this select 0) setFlagTexture 'flag_manager\data\flag_Manager_vdv_CO.paa'";
+        };
+        scopeCurator = 2;
+    };
+
+    class flag_ban_manager_vdv : Banner_01_F {
+        author = "NaGa";
+        scope = 2;
+        displayName = "$STR_DOG_BAN_vdv";
+        hiddenSelectionsTextures[] = {"flag_manager\data\flag_Manager_vdv_CO.paa"};
+        class EventHandlers {
+            init = "(_this select 0) setFlagTexture 'flag_manager\data\flag_Manager_vdv_CO.paa'";
+        };
+        scopeCurator = 2;
+    };
+
+    class flag_Manager_vmf : FlagCarrier {
+        author = "NaGa";
+        scope = 2;
+        displayName = "$STR_DOG_FLAG_vmf";
+        class EventHandlers {
+            init = "(_this select 0) setFlagTexture 'flag_manager\data\flag_Manager_vmf_CO.paa'";
+        };
+        scopeCurator = 2;
+    };
+
+    class flag_ban_manager_vmf : Banner_01_F {
+        author = "NaGa";
+        scope = 2;
+        displayName = "$STR_DOG_BAN_vmf";
+        hiddenSelectionsTextures[] = {"flag_manager\data\flag_Manager_vmf_CO.paa"};
+        class EventHandlers {
+            init = "(_this select 0) setFlagTexture 'flag_manager\data\flag_Manager_vmf_CO.paa'";
+        };
+        scopeCurator = 2;
+    };
 };
 
 class Cfg3DEN {
@@ -3201,7 +3349,7 @@ class Cfg3DEN {
 							};
 							class cdhkz {
 								name = "$STR_DOG_chdkz";
-								value = "\rhsafrf\addons\rhs_c_cti_indep\flag_chdkz_co.paa";
+								value = "flag_manager\data\flag_Manager_chdkz_CO.paa";
 							};
 							class NAPA {
 								name = "$STR_DOG_napa";
@@ -3209,11 +3357,11 @@ class Cfg3DEN {
 							};
 							class dog {
 								name = "$STR_DOG_dog1";
-								value = "flag_manager\data\dog_flag_co.paa";
+								value = "flag_manager\data\flag_Manager_dogflag_CO.paa";
 							};
 							class dog_af {
 								name = "$STR_DOG_dog2";
-								value = "flag_manager\data\dog_flag_af_co.paa";
+								value = "flag_manager\data\flag_Manager_dogflagaf_CO.paa";
 							};
 							class baltia {
 								name = "$STR_DOG_baltia";
@@ -3558,15 +3706,15 @@ class Cfg3DEN {
 							};
 							class rus_rhs {
 								name = "$STR_DOG_ru_rhs";
-								value = "\rhsafrf\addons\rhs_main\data\Flag_rus_CO.paa";
+								value = "flag_manager\data\flag_Manager_russia_CO.paa";
 							};
 							class rus_vdv {
 								name = "$STR_DOG_vdv";
-								value = "rhsafrf\addons\rhs_main\data\flag_vdv_co.paa";
+								value = "flag_manager\data\flag_Manager_vdv_CO.paa";
 							};
 							class rus_vmf {
 								name = "$STR_DOG_vmf";
-								value = "rhsafrf\addons\rhs_main\data\flag_vmf_co.paa";
+								value = "flag_manager\data\flag_Manager_vmf_CO.paa";
 							};
 							class rus_vv {
 								name = "$STR_DOG_vv";
@@ -3952,6 +4100,7 @@ class Cfg3DEN {
 								name = "$STR_DOG_philippinesworker";
 								value = "flag_manager\data\flag_Manager_philippinesworker_CO.paa";
 							};
+							class philippinespeople {name = "$STR_DOG_philippinespeople"; value = "flag_manager\data\flag_Manager_philippinespeople_CO.paa";};
 							
 							
 							//Ugoslavia
@@ -4024,8 +4173,9 @@ class Cfg3DEN {
 							class arstochka {
 								name = "$STR_DOG_arstochka";
 								value = "flag_manager\data\flag_Manager_arstochka_CO.paa";
-							};
+							};// После пишет скрипт
 													
+                            
 						};
 					};
 				};
